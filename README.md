@@ -1,3 +1,3 @@
 arduinoSD
 =========
-Práticas simples em arduino UNO
+Procedimentos básicos no arduino UNO
